@@ -96,3 +96,7 @@
     min-height: 20rem;
   }
 }
+
+.header.header--middle-center {
+  background: blue;
+}
