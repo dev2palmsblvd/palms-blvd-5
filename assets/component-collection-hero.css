@@ -97,6 +97,6 @@
   }
 }
 
-.header.header--middle-center {
-  background: blue;
+.header {
+  background: blue !important;
 }
